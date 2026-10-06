@@ -1,0 +1,14 @@
+A:\Rider\Workshop\Task5\bin\Debug\net10.0\Task5.exe
+A:\Rider\Workshop\Task5\bin\Debug\net10.0\Task5.deps.json
+A:\Rider\Workshop\Task5\bin\Debug\net10.0\Task5.runtimeconfig.json
+A:\Rider\Workshop\Task5\bin\Debug\net10.0\Task5.dll
+A:\Rider\Workshop\Task5\bin\Debug\net10.0\Task5.pdb
+A:\Rider\Workshop\Task5\obj\Debug\net10.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+A:\Rider\Workshop\Task5\obj\Debug\net10.0\Task5.AssemblyInfoInputs.cache
+A:\Rider\Workshop\Task5\obj\Debug\net10.0\Task5.AssemblyInfo.cs
+A:\Rider\Workshop\Task5\obj\Debug\net10.0\Task5.csproj.CoreCompileInputs.cache
+A:\Rider\Workshop\Task5\obj\Debug\net10.0\Task5.dll
+A:\Rider\Workshop\Task5\obj\Debug\net10.0\refint\Task5.dll
+A:\Rider\Workshop\Task5\obj\Debug\net10.0\Task5.pdb
+A:\Rider\Workshop\Task5\obj\Debug\net10.0\Task5.genruntimeconfig.cache
+A:\Rider\Workshop\Task5\obj\Debug\net10.0\ref\Task5.dll

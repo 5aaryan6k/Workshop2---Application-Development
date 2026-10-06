@@ -1,0 +1,14 @@
+A:\Rider\Workshop\Task3\bin\Debug\net10.0\Task3.exe
+A:\Rider\Workshop\Task3\bin\Debug\net10.0\Task3.deps.json
+A:\Rider\Workshop\Task3\bin\Debug\net10.0\Task3.runtimeconfig.json
+A:\Rider\Workshop\Task3\bin\Debug\net10.0\Task3.dll
+A:\Rider\Workshop\Task3\bin\Debug\net10.0\Task3.pdb
+A:\Rider\Workshop\Task3\obj\Debug\net10.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+A:\Rider\Workshop\Task3\obj\Debug\net10.0\Task3.AssemblyInfoInputs.cache
+A:\Rider\Workshop\Task3\obj\Debug\net10.0\Task3.AssemblyInfo.cs
+A:\Rider\Workshop\Task3\obj\Debug\net10.0\Task3.csproj.CoreCompileInputs.cache
+A:\Rider\Workshop\Task3\obj\Debug\net10.0\Task3.dll
+A:\Rider\Workshop\Task3\obj\Debug\net10.0\refint\Task3.dll
+A:\Rider\Workshop\Task3\obj\Debug\net10.0\Task3.pdb
+A:\Rider\Workshop\Task3\obj\Debug\net10.0\Task3.genruntimeconfig.cache
+A:\Rider\Workshop\Task3\obj\Debug\net10.0\ref\Task3.dll
